@@ -1,4 +1,5 @@
-# LogResearch
+# LogResearch - OUT, GO TO WhiteHat-v2
+https://github.com/LogFR01/WHiteHat-V2
 _______________________________
 Un MultiTool de recherche dans vos bases de données, il a été codé avec pyside6 donc l'interface
 graphique aura un freeze durant le temps d'une requête (recherche, ping ou autre)
